@@ -1,6 +1,1 @@
-1.1 PULSE_X
-hdj
-hsj
-hdj
-hsjs
-hsks
+PULSE_X 2.0
