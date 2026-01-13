@@ -1,1 +1,1 @@
-PULSE_X 2.0
+3.0 PULSE_X
