@@ -1,1 +1,6 @@
-3.0 PULSE_X
+PULSE_X 3.0A
+
+hssk
+ndmd
+nddm
+ndkd
