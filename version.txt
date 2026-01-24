@@ -1,9 +1,5 @@
-5.1 PULSE_X
-bxnx
-bdmd
-jddm
-dhd
-hd
-hdkd
-bdjd
+PULSE_X 7.0
+hddk
 hdjd
+hdjd
+heje
