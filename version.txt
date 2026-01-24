@@ -1,5 +1,1 @@
-PULSE_X 7.0
-hddk
-hdjd
-hdjd
-heje
+7.0 PULSE_X
