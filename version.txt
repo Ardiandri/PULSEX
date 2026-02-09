@@ -1,6 +1,1 @@
-PULSE_X 11.0
-gdj
-hd
-hdk
-hd
-hdjd
+12.0 PULSE_X
