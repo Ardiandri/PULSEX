@@ -1,5 +1,1 @@
-PULSE_X 17.1
-sgek
-hejd
-gdjd
-hsjs
+1.0 PULSE_X_4.3
