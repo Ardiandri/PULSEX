@@ -1,1 +1,5 @@
-5.1 PULSE_X
+ PULSE_X 5.2
+gzjs
+jdmd
+jdkd
+jdk
