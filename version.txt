@@ -1,4 +1,1 @@
-1.1.1 PULSEX_4.5
-vJ
-hddj
-hddoeke
+PULSEX 1.2
