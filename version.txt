@@ -1,6 +1,1 @@
- PULSEX 5.2.0
-+_(
-niwl
-bwk
-hdjd
-hejd
+5.2.1 PULSEX
