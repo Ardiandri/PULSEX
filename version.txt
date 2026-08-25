@@ -1,4 +1,1 @@
-PULSEX 6.0.0
-vdnd
-bdn
-jdddjd
+6.1.0 PULSEX
